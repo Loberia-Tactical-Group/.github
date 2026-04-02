@@ -4,13 +4,14 @@
   <img src="https://github.com/Loberia-Tactical-Group/.github/blob/main/profile/loberia_logo.png?raw=true" width="200" alt="Loberia Logo">
 </p>
 
-> **"Security is not a state, but a constant process."** > We specialize in high-end cybersecurity infrastructure, advanced system hardening, and automated threat intelligence.
+> **"Security is not a state, but a constant process."**
+> We specialize in high-end cybersecurity infrastructure, advanced system hardening, and automated threat intelligence.
 
 ---
 
 ### 🛰️ Active Strategic Units
-* **[Loberia Sentinel AV](https://github.com/Loberia-Tactical-Group/loberia-sentinel-av):** Next-gen malware scanning and heuristic analysis engine.
-* **[Hardening-as-Code](https://github.com/Loberia-Tactical-Group/hardening-as-code):** Automated security baselines for Linux and Windows infrastructure.
+* **[Loberia Shield XDR](https://github.com/Loberia-Tactical-Group/Loberia-Shield):** Our flagship endpoint protection engine. Featuring real-time monitoring, system tray persistence, and ultra-lightweight performance.
+* **[Hardening-as-Code](https://github.com/Loberia-Tactical-Group/hardening-as-code):** Automated security baselines and optimization scripts for Windows Lite and Linux environments.
 
 ### 🛠️ Tech Stack & Arsenal
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,7 +21,7 @@
 
 ### 📡 Connection Hub
 * **Official Discord:** [Join the Command Center](https://discord.gg/JctyrXrrd8)
-* **Status:** `OPERATIONAL // SYSTEM_READY`
+* **Current Status:** ![Operational](https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=flat-square)
 
 ---
 <p align="right">
