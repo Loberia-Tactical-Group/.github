@@ -1,7 +1,7 @@
 # 🛡️ Loberia Tactical Group | Global Operations Center
 
 <p align="center">
-  <img src="https://github.com/Loberia-Tactical-Group/.github/blob/main/profile/loberia_logo.png?raw=true" width="200" alt="Loberia Logo">
+  <img src="https://github.com/Loberia-Tactical-Group/.github/blob/main/profile/loberia_logo?raw=true" width="200" alt="Loberia Logo">
 </p>
 
 > **"Security is not a state, but a constant process."**
