@@ -1,7 +1,7 @@
 # 🛡️ LOBERIA TACTICAL GROUP
 
 <p align="center">
-  <img src="https://i.ibb.co/DP5nKYDZ/lobo.png?raw=true" width="200" alt="Loberia Logo">
+  <img src="[https://i.ibb.co/DP5nKYDZ/lobo.png?raw=true" width="200" alt="Loberia Logo">
 </p>
 
 <p align="center">
